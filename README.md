@@ -8,7 +8,7 @@
 - Content Layout
 
 ## Screenshots
-![Screenshot](images/desktop-view-1.png)
+![Screenshot](images/screenshot.png)
 
 ## Built With
 - HTML
